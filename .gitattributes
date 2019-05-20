@@ -1,3 +1,1 @@
-*.html linguist-language=HTML
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
+static/* linguist-vendored
