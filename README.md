@@ -1,5 +1,5 @@
 # midterm_DefineFavorite
-Users can store their favorite or frequently used website in this app and no longer have to open so many pages in the broswer. You can easily define the item's order as you want by just drag and drop it, write some description of the item or delete it. 
+Users can store their favorite or frequently used website in this app and no longer have to open so many pages in the browser. You can easily define the item's order as you want by just drag and drop it, write some description of the item or delete it. 
 
 ## 使用/操作方式
 ### How to build
@@ -8,7 +8,7 @@ Users can store their favorite or frequently used website in this app and no lon
 3. In one terminal, `cd api` and type `npm install` to install server node module
 4. In another terminal,  `cd client` into the client repo and type `npm install` to install client node module
 5. `npm start` in both terminals
-6. Start defininf your own favorite!
+6. Start definine your own favorite!
 
 ### How it works
 * localhost:3000/
